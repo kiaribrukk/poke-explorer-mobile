@@ -296,3 +296,8 @@ Otra diferencia importante es el almacenamiento de información. En la versión 
 Para el listado también se utilizó `FlatList` en React Native, ya que está pensado para mostrar listas de elementos de manera eficiente en dispositivos móviles.
 
 Finalmente, la navegación se adapta a cada entorno: en la Web se utilizó **React Router**, mientras que en la versión Mobile se utilizó **React Navigation**.
+
+
+
+
+
